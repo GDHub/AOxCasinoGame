@@ -22,7 +22,7 @@ A full-featured casino gaming application built using **Node.js/Express** for th
         ...
         - Homepage:
         
-            **Strengths**:
+            Strengths:
             Design is elegantly simple, playful and intuitive
             Well optimized for the PC and Mobile Screens
             Weaknesses:
