@@ -56,4 +56,3 @@ A full-featured casino gaming application built using **Node.js/Express** for th
     Line 85 - 88 (server/index.js)
 - Maintain the existing sign-in flow, but ensure users can only authenticate **after a successful wallet connection**
     Line 91 - 96 (server/index.js)
-
